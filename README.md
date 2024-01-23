@@ -1,5 +1,8 @@
 # <a href="#"><img src="media/BLAKE3.svg" alt="BLAKE3" height=50></a>
 
+This is Fluence fork of the BLAKE3 project.  It differs from the upstream by
+a wasm32-SIMD Rust implementation of BLAKE3.
+
 BLAKE3 is a cryptographic hash function that is:
 
 - **Much faster** than MD5, SHA-1, SHA-2, SHA-3, and BLAKE2.

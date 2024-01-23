@@ -1,11 +1,11 @@
 [package]
-name = "blake3"
+name = "fluence-blake3"
 version = "1.5.0"
-authors = ["Jack O'Connor <oconnor663@gmail.com>", "Samuel Neves"]
+authors = ["Jack O'Connor <oconnor663@gmail.com>", "Samuel Neves", "Fluence Labs"]
 description = "the BLAKE3 hash function"
-repository = "https://github.com/BLAKE3-team/BLAKE3"
+repository = "https://github.com/fluence/BLAKE3"
 license = "CC0-1.0 OR Apache-2.0"
-documentation = "https://docs.rs/blake3"
+documentation = "https://docs.rs/fluence-blake3"
 readme = "README.md"
 edition = "2021"
 
